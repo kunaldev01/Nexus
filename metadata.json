@@ -1,0 +1,6 @@
+{
+  "name": "Life OS",
+  "description": "An all-in-one productivity, wellness, and meal command center with Gemini-driven goal decomposition and progression tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
